@@ -1,0 +1,6 @@
+#FileLock
+#Fri Oct 02 17:41:05 GMT-03:00 2026
+hostName=ec2-54-232-189-113.sa-east-1.compute.amazonaws.com
+id=1a0fe596072d37d45c2d675df65373bbb6284e91e30
+method=file
+server=54.232.189.113\:58814
